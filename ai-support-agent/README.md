@@ -16,7 +16,7 @@ This system solves that by building a:
 
 ---
 
-## 🎯 Core Features
+## Core Features
 
 ###  Persona Detection
 
@@ -159,4 +159,5 @@ It reflects how AI modules can be embedded into modern marketing analytics and S
 3. Run the app:
    `npm run dev`
 "# AI_Support_Agent" 
+
 
