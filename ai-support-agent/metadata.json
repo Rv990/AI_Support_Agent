@@ -1,0 +1,5 @@
+{
+  "name": "AI Support Agent",
+  "description": "A persona-adaptive customer support AI with knowledge base retrieval and escalation logic.",
+  "requestFramePermissions": []
+}
